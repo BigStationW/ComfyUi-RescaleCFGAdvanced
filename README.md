@@ -9,6 +9,8 @@ As you can see, it works better when you restrict the timesteps range to somethi
 
 The “RescaleCFGAdvanced” node is meant to give you this set of choices.
 
+https://imgsli.com/Mzc2ODEy
+
 ## 2) Install
 Navigate to the **ComfyUI/custom_nodes** folder and run the following command in your terminal:
 
