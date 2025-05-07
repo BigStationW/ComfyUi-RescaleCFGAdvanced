@@ -9,6 +9,6 @@ Repository = "https://github.com/BigStationW/ComfyUi-RescaleCFGAdvanced"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "bigstationw"
 DisplayName = "ComfyUi-RescaleCFGAdvanced"
 Icon = ""
